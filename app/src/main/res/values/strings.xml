@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Solo Ciclobike</string>
+    <string name="ciclovia">Ciclovia</string>
+    <string name="comuna">Comuna</string>
+</resources>
